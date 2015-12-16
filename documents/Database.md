@@ -1,8 +1,6 @@
-# Rezable.io #
-
-* Data Model
-
+# Data Model #
 ---
+
 ![Data Model](rezable_data_model.png)
 
 

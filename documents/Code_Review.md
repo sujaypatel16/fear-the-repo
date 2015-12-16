@@ -1,8 +1,6 @@
-# Rezable.io #
-
-* Code Review Workflow
-
+# Code Review Workflow #
 ---
+
 1. Update local dev branch with repo dev  | git pull upstream dev
 2. Create a local branch which is identical to local dev branch | git checkout -b '[insert branch name]'
 3. Create remote connection to team member requesting pull | git remote add '[insert remote name]' https://github.com/ [insert team member git handle]/fear-the-repo
